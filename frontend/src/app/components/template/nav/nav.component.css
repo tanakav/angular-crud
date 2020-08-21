@@ -5,3 +5,10 @@
 .sidenav i {
     padding-right: 10px;
 }
+
+.content {
+    background-color: white;
+    color: rgb(90, 88, 88);
+    padding: 16px;
+
+}
