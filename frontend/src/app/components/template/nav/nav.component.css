@@ -1,18 +1,20 @@
 .sidenav {
-    width: 200px;
+    width: 15vw;
+    max-width: 200px;
 }
 
-.nav-list{
+.nav-list a{
     font-size: 1.5rem;
 }
 
 .sidenav i {
-    padding-right: 10px;    
+    padding-right: 10px;  
+    font-size: 1.5rem;  
 }
 
 .content {
     background-color: white;
     color: rgb(90, 88, 88);
     padding: 16px;
-
+    font-size: 1.3rem;
 }

@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+}
+
+.material-icons{
+    color: #cdcdcd;
+    margin-right: 5px;
+}
+
+.material-icons.edit:hover{
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    border-radius: 5px;
+    box-shadow: 0 0 5px 2px #fff789;
+    transition: 300ms;
+}
+
+.material-icons.delete:hover{
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    border-radius: 5px;
+    box-shadow: 0 0 5px 2px #e35e6b;
+    transition: 300ms;
+}
