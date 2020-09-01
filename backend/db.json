@@ -1,14 +1,24 @@
 {
   "products": [
     {
-      "name": "Água Minalba",
-      "price": "2.50",
-      "id": 6
+      "name": "Geladeira",
+      "price": "3000",
+      "id": 1
+    },
+    {
+      "name": "Caneta BIC Preta",
+      "price": "2",
+      "id": 2
     },
     {
       "name": "Fanta Uva",
       "price": "4.20",
-      "id": 7
+      "id": 3
+    },
+    {
+      "name": "Samsung Galaxy S20",
+      "price": "4000.99",
+      "id": 4
     }
   ]
 }
